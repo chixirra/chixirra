@@ -1,5 +1,10 @@
 # call me chi
 i'm the type of person who wants to be able to do everything
+
+## currently working on
+i'm making a website for the school i go to because the current one sucks like crazy
+im using nuxt even though i have 0 clue how it actually functions LMAO but hey we learning!
+
 ## socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/798271665313546293) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chixirra) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/chixirra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chixirra)  
 
